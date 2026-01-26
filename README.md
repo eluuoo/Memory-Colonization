@@ -9,7 +9,7 @@ Introduction
 This project employs Arduino and Processing to transform the intangible phenomenon of ‘algorithms subtly manipulating memory’ into a tangible, physical interactive installation. Users select personal recollections—such as music, travel, or commuting—via a joystick, witnessing firsthand how warm, authentic memories (represented by yellow lights) are progressively overwritten by cold, algorithmic content (blue lights). Attempts to restore the original memories prove futile due to technical resistance (red lights) and never success. Through an intuitive sensory experience, the installation exposes the essence of how ‘in the digital age, memory has been reduced from a private spiritual asset to technologically controllable data,’ prompting reflection on whether ‘digital devices preserve or alter memory.’
 
 
-equipment list
+Equipment List
 
 Installation overview (Arduino LCD + three colour LED lights + left potentiometer for adjusting LCD screen brightness + right joystick button, full-screen Processing visual interface on computer, built-in passive buzzer)
 ![IMG_1770](https://github.com/user-attachments/assets/3ea7c51e-664b-47d1-acee-96f25e4433a6)
@@ -38,7 +38,8 @@ How to Run the Project
 <img width="1066" height="797" alt="截屏2025-12-10 09 41 44" src="https://github.com/user-attachments/assets/19fb15f6-fa04-47cf-91cf-d68e5107cad5" />
 
 
-display
+
+Display
 
 ![IMG_1761](https://github.com/user-attachments/assets/b32546de-742a-404f-9c74-9973d84d3622)
 ![IMG_1784](https://github.com/user-attachments/assets/c9c9c3cf-5923-4d22-ae97-3c85ee34eabf)
@@ -47,7 +48,8 @@ display
 
 
 References
- 
+
+
 Adorno, T.W. & Horkheimer, M. (2002). Dialectic of Enlightenment. Stanford University Press.
 
 Han, B. (2017). The Burnout Society. Stanford University Press.
