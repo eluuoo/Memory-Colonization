@@ -5,10 +5,12 @@ By  Yilu Tan
 video link ：https://youtu.be/JWsbSuam0Pk
 
 Introduction
+
 This project employs Arduino and Processing to transform the intangible phenomenon of ‘algorithms subtly manipulating memory’ into a tangible, physical interactive installation. Users select personal recollections—such as music, travel, or commuting—via a joystick, witnessing firsthand how warm, authentic memories (represented by yellow lights) are progressively overwritten by cold, algorithmic content (blue lights). Attempts to restore the original memories prove futile due to technical resistance (red lights) and never success. Through an intuitive sensory experience, the installation exposes the essence of how ‘in the digital age, memory has been reduced from a private spiritual asset to technologically controllable data,’ prompting reflection on whether ‘digital devices preserve or alter memory.’
 
 
 equipment list
+
 Installation overview (Arduino LCD + three colour LED lights + left potentiometer for adjusting LCD screen brightness + right joystick button, full-screen Processing visual interface on computer, built-in passive buzzer)
 ![IMG_1770](https://github.com/user-attachments/assets/3ea7c51e-664b-47d1-acee-96f25e4433a6)
 
@@ -30,13 +32,14 @@ How to Run the Project
 
 3. For example, if you select the travel memory, the yellow light meaning the real memory will light up, and the small screen will display "Commute-Alley", while the large screen will show  illustration. 
 
-4. Press the  joystick to confirm and the alteration /ˌɔːltəˈreɪʃ(ə)n/ will take place: the blue light starts flashing and brightens up, the yellow light gradually dims, and on the small screen, "Alley" gradually changes to "NavApp". The particles in the picture also change from circular to square ( this is like the algorithm cover up our private memories.)
+4. Press the  joystick to confirm and the alteration will take place: the blue light starts flashing and brightens up, the yellow light gradually dims, and on the small screen, "Alley" gradually changes to "NavApp". The particles in the picture also change from circular to square ( this is like the algorithm cover up our private memories.)
 
 5.  Next comes the recovery stage: When you try to restore again, the red light will gradually come on, and there will be an alarm sound. As the progress bar moves forward, it eventually shows "Recovery Failed". (It likes our memories stored in the cloud. They have already lost their ownership, and even the recovery process is subject to technical limitations.)
 <img width="1066" height="797" alt="截屏2025-12-10 09 41 44" src="https://github.com/user-attachments/assets/19fb15f6-fa04-47cf-91cf-d68e5107cad5" />
 
 
 display
+
 ![IMG_1761](https://github.com/user-attachments/assets/b32546de-742a-404f-9c74-9973d84d3622)
 ![IMG_1784](https://github.com/user-attachments/assets/c9c9c3cf-5923-4d22-ae97-3c85ee34eabf)
 ![IMG_8712](https://github.com/user-attachments/assets/d3c24d7d-e78d-4514-a9b9-38482bd453ab)
